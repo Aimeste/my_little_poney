@@ -31,4 +31,13 @@ ul.ponys li figure img{
 
 ul.ponys li figure figcaption {
     text-align: center;
-} 
+}
+
+h1{
+    text-align: center;
+    text-decoration:underline;
+}
+
+li{
+    text-align:center;
+}
